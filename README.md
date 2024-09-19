@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielc1925" alt="gabrielc1925" /></a> </p>
 
-- 🔭 I’m currently working on [Containerized Masjid Website](https://github.com/three-knots/Masjid_Website)
+- 🔭 I’m currently working on [Containerized Masjid Website](https://github.com/three-knots/Masjid_Website) and [Recoding same website in SvelteKit](https://github.com/three-knots/HRIA_Website)
 
-- 🌱 I’m currently learning **Golang, Terraform, Ansible, AWS, Javascript, Python, #100devs**
+- 🌱 I’m currently learning **Golang, Terraform, Ansible, AWS, Javascript, Python, SvelteKit, #100devs**
 
 - 👯 I’m looking to collaborate on **Anything I can learn from**
 
 - 👨‍💻 All of my projects are available at [https://gabrielc1925.github.io/projects/](https://gabrielc1925.github.io/projects/)
 
-- 💬 Ask me about **100devs**
+- 💬 Ask me about **SvelteKit**
 
 - 📫 How to reach me **gabrielc1925@gmail.com**
 
